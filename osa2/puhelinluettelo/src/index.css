@@ -1,0 +1,42 @@
+.error {
+    color: rgb(0, 0, 0);
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+  }
+
+  .success {
+    color: rgb(0, 0, 0);
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-color: green;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+  }
+
+  .name {
+    margin-bottom: 10px;
+  }
+
+  .nameInput {
+    margin-left: 1400px;
+  }
+
+  .number {
+    margin-bottom: 10px;
+  }
+
+  button {
+    font: 400 11px system-ui;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+}
